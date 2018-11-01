@@ -1,2 +1,2 @@
-#  2@ nd edition myproject
+#  2@ nd C# projects edition myproject
 user only for rwp
